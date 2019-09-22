@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://enequeexua.mckiff.de/sitemap.xml
